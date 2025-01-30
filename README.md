@@ -1,1 +1,2 @@
-# CryptoClustering
+In this challenge, I applied my knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes. # CryptoClustering
+I loaded the crypto_market_data.csv file into jupyter notebook and scaled and cleaned the data to prepare visualizing the clustering. I used kmeans and the elbow method to determine how the clustering was affected by the changes. 
